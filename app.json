@@ -1,0 +1,32 @@
+{
+  "id": "0b8b481d-7ff5-45e3-9f39-c489a7ee5c7c",
+  "name": "52PowerBI Sales",
+  "publisher": "Fiftytwo A/S",
+  "brief": "52PowerBI Sales",
+  "description": "52PowerBI Sales 1.0.0.0",
+  "version": "1.0.0.0",
+  "privacyStatement": "https://www.fiftytwo.com/da/privatlivspolitik",
+  "EULA": "https://www.fiftytwo.com/52PowerBiCore/EULA",
+  "help": "https://www.fiftytwo.com/52PowerBiCore/Help",
+  "url": "http://www.fiftytwo.com",
+  "logo": "image/logo.png",
+  "dependencies": [ 
+    {
+      "appId": "a513d7f2-3295-4505-b978-56135797c4d1",
+      "name": "52PowerBI Core",
+      "publisher": "Fiftytwo A/S",
+      "version": "1.0.0.0"
+    }
+  ],  
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "target": "Internal",
+  "idRange": {"from": 6042300,"to": 6042399},
+  "contextSensitiveHelpUrl": "https://fiftytwo.com",
+  "showMyCode": true,
+  "runtime": "3.2",
+  "features": [
+    "TranslationFile"
+  ]
+}
